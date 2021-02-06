@@ -7,4 +7,4 @@ double normalization <br/>
 
 LinkedList - append element to the end, big o performance <br/>
 
-AutomicInteger - need volatile modifier ??? <br/>
+AtomicInteger - need volatile modifier ??? <br/>
