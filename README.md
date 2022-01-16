@@ -15,3 +15,11 @@ What need to do to handle thread InterruptedException ? <br/>
 graph theory <br/>
 delta gamma approximation <br/>
 voice trading <br/>
+
+# Algo related
+
+Trie, leetcode: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+Dynamic Programming
+
+Backtracking
